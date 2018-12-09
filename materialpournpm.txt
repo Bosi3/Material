@@ -1,0 +1,1 @@
+https://github.com/angular/bower-material/#installing-angular-material

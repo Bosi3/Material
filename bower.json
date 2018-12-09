@@ -1,0 +1,20 @@
+{
+  "name": "projetMaterial",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.1.3",
+    "jquery": "1.9",
+    "angular-material-expansion-panel": "^0.7.2"
+  }
+}
